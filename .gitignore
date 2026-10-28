@@ -1,0 +1,9 @@
+# 可以随时用脚本重建的中间产物，不进仓库
+data/
+charts/*.csv
+__pycache__/
+
+# 编辑器 / 系统
+.vscode/
+Thumbs.db
+desktop.ini
